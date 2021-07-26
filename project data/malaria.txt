@@ -1,0 +1,35 @@
+-----------
+| MALARIA |
+-----------
+Malaria is a life-threatening mosquito-borne blood disease. The Anopheles mosquito transmits it to humans.The parasites in mosquitos that spread malaria belong to the
+Plasmodium genus. Over 100Trusted Source types of Plasmodium parasite can infect a variety of species.Different types replicate at different rates, changing how 
+quickly the symptoms escalate, and the severity of the disease.Once an infected mosquito bites a human, the parasites multiply in the host's liver before infecting and 
+destroying red blood cells.
+----------  
+|SYMPTOMS|
+----------
+In uncomplicated malaria, symptoms progress as follows, through cold, hot, and sweating stages:
+
+* A sensation of cold with shivering
+* fever, headaches, and vomiting
+* seizures sometimes occur in younger people with the disease
+* sweats, followed by a return to normal temperature, with tiredness
+----------- 
+|TREATMENT|
+-----------
+* Treatment aims to eliminate the Plasmodium parasite from the bloodstream.
+* Those without symptoms may be treated for infection to reduce the risk of disease transmission in the surrounding population.
+* The World Health Organization (WHO) recommends artemisinin-based combination therapy (ACT) to treat uncomplicated malaria.
+* Artemisinin is derived from the plant Artemisia annua, better known as sweet wormwood. It rapidly reduces the concentration of Plasmodium parasites in bloodstream.
+* Practitioners often combine ACT with a partner drug. ACT aims to reduce the number of parasites within the first 3 days of infection, while the partner drug
+ eliminate the rest.
+* Expanding access to ACT treatment worldwide has helped reduce the impact of malaria, but the disease is becoming increasingly resistant to the effects of ACT.
+* In places where malaria is resistant to ACT, treatment must contain an effective partner drug.
+* The WHO has warned that no alternatives to artemisinin are likely to become available for several years.
+------------ 
+|PREVENTION|
+------------
+* find out what the risk of malaria is in the country and city or region they are visiting
+* ask their doctor what medications they should use to prevent infection in that region
+* obtain antimalarial drugs before leaving home, to avoid the risk of buying counterfeit drugs while abroad
+* consider the risk for individual travelers, including children, older people, pregnant women, and the existing medical conditions of any travelers
