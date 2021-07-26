@@ -1,2 +1,6 @@
 # TECH-project
-This is final task of ACM SIG TECH in which i uploaded my python project so please have a look on it 
+This is final task of ACM SIG TECH in which i uploaded my python project so please have a look on it...
+
+My python project is a virtual clinic , all the information regarding my project is on "MEDICOX-Project.pdf". here you can see all the information like working description ,input/output interface etc. is easily explained on it.
+
+Hope you will enjoy this...
